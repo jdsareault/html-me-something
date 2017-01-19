@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+body{
+    margin:auto;
+    width: 50%;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+
+.storytext{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+    text-align: justify;
+
+}
+
+#intro{
+    font-style: italic;
+}
+
+footer{
+    text-align: center;
+}
